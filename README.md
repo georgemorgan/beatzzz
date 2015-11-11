@@ -12,11 +12,11 @@ Because of its severely limited resources, running C code on it is a challenge. 
 
 ```
 
-                +----+
-AUDIO CHANNEL  =|•   |=	 NOT CONNECTED
-         GND   =|    |=	 VCC
-POWER BUTTON   =|    |=	 POWER LED
-                +----+
+               +----+
+AUDIO CHANNEL =|•   |= NOT CONNECTED
+          GND =|    |= VCC
+ POWER BUTTON =|    |= POWER LED
+               +----+
                               
 ```
 
@@ -42,8 +42,8 @@ To write the prebuilt firmware, `beats.hex` to the ATTiny, you will need an ATTi
 
 Here's a photo of how I tested the ATTiny before installing it into the headphones. The breakout board I used is called `SOT23-6 breakout board`.
 
-![alt tag](https://github.com/georgemorgan/beatzzz/raw/master/images/attiny.png)
+<img src="https://github.com/georgemorgan/beatzzz/raw/master/images/attiny.png" alt="alt text" height="400">
 
 Here, the headphones can bee seen with wires soldered to the audio channel, power button, and power LED.
 
-![alt tag](https://raw.github.com/georgemorgan/beatzzz/master/images/assembly.png)
+<img src="https://github.com/georgemorgan/beatzzz/raw/master/images/assembly.png" alt="alt text" height="400">
