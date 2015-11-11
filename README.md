@@ -28,7 +28,7 @@ If there isn't a voltage, the microcontroller will start a timer - keeping track
 
 If a signal arises again, the timer will be reset. If 16 minutes goes by and there still isn't a signal, then power the headphones off and put the microcontroller into sleep mode.
 
-If there is an iterrupt on the power pin, check the state of the pin, and react accordingly. If the pin is high (the headphones are on), reset and power the microcontroller on. If they are off, sleep.
+If there is an interrupt on the power pin, check the state of the pin, and react accordingly. If the pin is high (the headphones are on), reset and power the microcontroller on. If they are off, sleep.
 
 # Compiling
 
