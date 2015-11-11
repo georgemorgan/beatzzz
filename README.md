@@ -42,8 +42,8 @@ To write the prebuilt firmware, `beats.hex` to the ATTiny, you will need an ATTi
 
 Here's a photo of how I tested the ATTiny before installing it into the headphones. The breakout board I used is called `SOT23-6 breakout board`.
 
-![alt tag](https://raw.github.com/georgemorgan/beatzzz/branch/images/attiny.png)
+![alt tag](https://github.com/georgemorgan/beatzzz/raw/master/images/attiny.png)
 
 Here, the headphones can bee seen with wires soldered to the audio channel, power button, and power LED.
 
-![alt tag](https://raw.github.com/georgemorgan/beatzzz/branch/images/assembly.png)
+![alt tag](https://raw.github.com/georgemorgan/beatzzz/master/images/assembly.png)
